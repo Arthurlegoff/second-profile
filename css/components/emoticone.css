@@ -1,0 +1,32 @@
+h3 {
+	color: #355C7D;
+    font-family: Helvetica;
+    font-weight: 700;
+    letter-spacing: 10px;
+    font-size: 32px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.list-inline { 
+    list-style: none;
+	padding-left: 0px;
+	text-align: center;
+ }
+
+.list-inline li{ 
+	display: inline;
+	padding: 10px; 
+}
+
+.list-inline i {
+	 font-size: 50px ;
+	 color: rgb(150, 150, 150);
+	  
+}
+
+.list-inline i:hover { 
+	col45: black;
+ }
+
+
